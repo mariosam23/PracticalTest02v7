@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">PracticalTest02v7</string>
+    <string name="server">Server</string>
+    <string name="client">Client</string>
+    <string name="server_port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="client_address">Address</string>
+    <string name="send">Send</string>
+    <string name="client_port">Port</string>
+    <string name="command">Command</string>
+    <string name="send_command">Send</string>
 </resources>
